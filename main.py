@@ -1,6 +1,6 @@
 # здесь запускаем
 
-from user_interfase import menu
+from user_interface import menu
 from logg import logging
 logging.info('start program')
 menu()
